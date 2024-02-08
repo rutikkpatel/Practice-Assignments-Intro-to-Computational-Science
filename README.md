@@ -19,7 +19,7 @@ Ensure that you have Python and Jupyter Notebook installed. Open the `C1_W2_Line
 
 ## Medium Blog
 
-https://rutikkpatel.medium.com
+https://rutikkpatel.medium.com/predicting-profits-with-linear-regression-and-gradient-descent-6d9e73c2bc42
 
 ## Contributing
 
