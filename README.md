@@ -2,6 +2,8 @@
 
 This project implements linear regression using batch gradient descent. It includes Jupyter Notebook exercises (`C1_W2_Linear_Regression.ipynb`) and a dataset file (`ex1data1.txt`). The goal is to learn the optimal parameters for a linear regression model that predicts the profit of a restaurant based on the population of a city.
 
+![Predicting Profits with  Linear Regression   Gradient Descent](https://github.com/rutikkpatel/Practice-Assignments-Machine-Learning/assets/72887393/e8374b43-50b1-49b3-9bfa-6c4a1c3eb868)
+
 
 ## Usage
 
